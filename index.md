@@ -93,7 +93,10 @@ Palvio may update this Privacy Policy from time to time to reflect product chang
 
 ## 11. Contact
 
-If you have questions about this Privacy Policy, you can contact the developer through the contact information provided in the app listing or official project page.
+If you have any questions about this Privacy Policy or want to make a privacy-related request, please contact:
+
+Email: [sentie.studio@outlook.com]
+Country: [Türkiye]
 
 ---
 
